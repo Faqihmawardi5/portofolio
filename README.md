@@ -11,8 +11,8 @@ I create impactful digital experiences with clean, responsive designs and engagi
 - **Role:** Web Developer, Graphic Designer, Videographer  
 - **Location:** Karangjongkeng, Tonjong, Brebes, Jawa Tengah, Indonesia  
 - **Email:** [faqihmawardi5@yahoo.com](mailto:faqihmawardi5@yahoo.com)  
-- **Portfolio:** [Download Portfolio](assets/dokumen/portofolio_Faqih_Mawardi.pdf)  
-- **CV:** [Download CV](assets/dokumen/cv_faqih.pdf)  
+- **Portfolio:** [Download Portfolio](https://drive.google.com/file/d/1bvEsk9oiTJkz2QUC5MiMxxbBua-jOZuk/view?usp=drive_link)  
+- **CV:** [Download CV](https://drive.google.com/file/d/1M2em8hs9PTEBfOLy0nnbySt62jl2YB3V/view?usp=drive_link)  
 
 I’m passionate about creating clean, responsive websites, unique brand identities, and engaging video content that helps businesses grow online.
 
